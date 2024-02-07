@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="./dp.png" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="./dp.png" align="center" alt="Manjul Gupta" />
  <h2 align="center">Hi! Myself Manjul</h2>
  <p align="center">Pursuing B.Tech. from IIT Delhi | Tech Enthusiast</p>
 </p>
